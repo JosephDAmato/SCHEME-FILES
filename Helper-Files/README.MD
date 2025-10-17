@@ -1,23 +1,16 @@
 ## Scheme Helper File
 
-To use:
-This file can be required into other SICP labs with (require "helpers.scm").
-
-- This is a list of functions to operate specifically on data within Scheme
+- This is a list of files to operate specifically on data within Scheme
 - Though some of this functionality probably already exists, it is an exercise
-  on trying to understand the language and its versatility.
-- My main goal is having something to help with UC Berkeley–style SICP
+  on trying to understand the language and its versatility. My hope is to grow this and be able to extend functionality far beyond appending and mapping.
+
+### Simply-Scheme.scm
+
+- This files's main goal is having something to help with UC Berkeley–style SICP
   (Structure and Interpretation of Computer Programs) coursework.
 - The most important thing I think I am learning with this undertaking is how
   with understanding your language you can create almost anything. I feel less
   BOXED in with how I view creating programs.
-
----
-
-##### To do
-
-[] Working on naming conventions
-[] Functionality needed:
 
 ---
 
