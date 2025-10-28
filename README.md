@@ -1,4 +1,40 @@
-# Scheme Helper Library — Full TODO Roadmap
+# SCHEME REPO README
+
+Inside this repo are LISP/Scheme/Racket based projects.
+
+#### Inside:
+
+- [Helper Library](#Scheme-Helper-Library)
+- [Corn Maze](#Corn-Maze)
+
+# Corn Maze
+
+![alt text](cornmaze_preview.png)
+This project uses Racket's `2htdp/image` library to construct a stylized tile-based corn maze. It combines geometric primitives and image composition to build a customized system for maze generation.
+
+## TODO
+
+Planned features for future development:
+
+- [ ] **Avatar System**  
+       Implement player avatar.
+
+- [ ] **Key Events**  
+       Add keyboard controls for movement, interaction, and navigation.
+
+- [ ] **Scoring Mechanism**  
+       Create Scoring system to track player progress, rewards, and penalties based on maze traversal.
+
+- [ ] **Event/Story System**  
+       Create State management to create a story based experience and create future RPG ELEMENTS.
+
+- [ ] **Leveling System**  
+       Introduce experience points and progression mechanics.
+
+- [ ] **RPG Elements**  
+       Add inventory, stats, dialogue, and quest-like interactions.
+
+# Scheme Helper Library
 
 A collection of files and functionality to use in scheme.
 This is an exercise in learning the language and also practicing what i am reading in [SICP](https://sarabander.github.io/sicp/html/index.xhtml).
