@@ -6,7 +6,12 @@ Inside this repo are LISP/Scheme/Racket based projects.
 
 - [Helper Library](#Scheme-Helper-Library)
 - [Corn Maze](#Corn-Maze)
+- [Clojure Database](#Clojure Database Project)
 
+# Clojure Database Project
+This is a project to create to database in Clojure that creates audit trails for each individual overwrite of an entries data. It is based of of https://aosabook.org/en/500L/an-archaeology-inspired-database.html. The main goal is to practice what I have learned through "Structure and Interpretation of Computer Programs" (SICP )and "How to Design Programs" (HtDP). 
+I will write, organize and define each part of the program in hopes to showcase my understanding of functional programming. 
+- updated 11/17/25
 # Corn Maze
 
 ![alt text](cornmaze_preview.png)

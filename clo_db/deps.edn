@@ -1,0 +1,6 @@
+;; This file tells REPLs where to find our code
+
+{:paths ["src"]  ;; where to find source folder
+ :deps {}        ;; where to find dependencies
+ :aliases {}     ;; where to find optional tools
+}

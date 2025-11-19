@@ -1,3 +1,10 @@
+(ns my-project.clo-db
+  {:author "joseph.matthew.damato@gmail.com"})
+
+;; example function to test everything works:
+(defn test-sum []
+  (println "sum is" (+ 1 2 3)))
+
 ;; This is a clojure based Database focused on retaining the history of data stored on it as such it can be audited. This is my first time in clojure so i am looking forward to learning new things. I will structure this project as I have learned in How to Design Programs course I took, there will be lots of comments
 
 ;; CONSTANTS
@@ -33,7 +40,7 @@
 ;; Entity is:
 ;;  - id  = String 'no-id-yet' or Natural [ 0 - ... ] random
 ;;  - attrs = Reference Attr [name, value ts prev-ts]
-
+#_
 (defn fn-for-Entity [ent]
   ((fn-for-Attr))
   )
