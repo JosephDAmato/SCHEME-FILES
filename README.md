@@ -9,23 +9,30 @@ Inside this repo are LISP/Scheme/Racket based projects.
 - [Clojure Database](#Clojure Database Project)
 
 # Clojure Database Project
-This is a project to create to database in Clojure that creates audit trails for each individual overwrite of an entries data. It is based of of https://aosabook.org/en/500L/an-archaeology-inspired-database.html. The main goal is to practice what I have learned through "Structure and Interpretation of Computer Programs" (SICP )and "How to Design Programs" (HtDP). 
-I will write, organize and define each part of the program in hopes to showcase my understanding of functional programming. 
+
+This is a project to create to database in Clojure that creates audit trails for each individual overwrite of an entries data. It is based of of https://aosabook.org/en/500L/an-archaeology-inspired-database.html. The main goal is to practice what I have learned through "Structure and Interpretation of Computer Programs" (SICP )and "How to Design Programs" (HtDP).
+I will write, organize and define each part of the program in hopes to showcase my understanding of functional programming.
+
 - updated 11/17/25
+
 # Corn Maze
 
 ![alt text](cornmaze_preview.png)
 This project uses Racket's `2htdp/image` library to construct a stylized tile-based corn maze. It combines geometric primitives and image composition to build a customized system for maze generation.
 
+# LOG
+
+- (12/23/25) Basic playable game added. This was a fun project to tool around on but theres still a lot I'd like to do. I will add how to run this game soon and a short video showing it. I will also be transitioning to using Love2D and the Lua script to create a more robust refined game. Lets call this proof of concept completed.
+
 ## TODO
 
 Planned features for future development:
 
-- [ ] **Avatar System**  
+- [x] **Avatar System**  
        Implement player avatar.
 
 - [ ] **Key Events**  
-       Add keyboard controls for movement, interaction, and navigation.
+       Add keyboard controls for ~~movement~~, interaction, and navigation.
 
 - [ ] **Scoring Mechanism**  
        Create Scoring system to track player progress, rewards, and penalties based on maze traversal.
