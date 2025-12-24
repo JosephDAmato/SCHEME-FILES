@@ -5,7 +5,7 @@ Inside this repo are LISP/Scheme/Racket based projects.
 #### Inside:
 
 - [Helper Library](#Scheme-Helper-Library)
-- [Corn Maze](#Corn-Maze)
+- [Corn Maze](#Corn-Maze) -12/23/25 update-
 - [Clojure Database](#Clojure Database Project)
 
 # Clojure Database Project
